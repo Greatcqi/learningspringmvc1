@@ -1,0 +1,4 @@
+SpringMVC框架示例1
+
+使用SpringMVC简单搭建WebApplication。
+主要用于演示DispatchServlet与Controller之间的交互。
